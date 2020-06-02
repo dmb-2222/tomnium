@@ -1,0 +1,1 @@
+{"version":3,"sources":["ListItem.module.css"],"names":[],"mappings":"AAAA,+BACE,YAAa,CACb,cAAe,CACf,6BAEF,CACA,GACE,WACF","file":"main.a88f0599.chunk.css","sourcesContent":[".listContainer {\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  justify-content: space-between;\r\n  /* width: 1000px; */\r\n}\r\nli {\r\n  width: 200px;\r\n}\r\n"]}
