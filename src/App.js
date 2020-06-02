@@ -15,7 +15,7 @@ const App = () => {
   const date = rate && new Date(rate.timestamp).toString();
 
   return (
-    <div style={{ width: "1200px", margin: "0 auto" }}>
+    <div style={{ maxWidth: "1200px", margin: "0 auto" }}>
       <h1>Курс валют</h1>
       {rate && (
         <>

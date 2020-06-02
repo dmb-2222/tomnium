@@ -1,8 +1,9 @@
-.listContainer{
-    display: flex;
-    flex-wrap: wrap;
+.listContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  /* width: 1000px; */
 }
-li{
-    padding-right: 30px;
-    width: 200px;
+li {
+  width: 200px;
 }
